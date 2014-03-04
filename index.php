@@ -7,4 +7,4 @@
  */
 echo "Пример";
 
-fghfghfghfghfgh
+echo "";
